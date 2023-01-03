@@ -1,0 +1,20 @@
+.container {
+  width: 80vw;
+  max-width: 30rem; 
+}
+
+.title {
+  color: whitesmoke;
+  margin-bottom: 0.5rem;
+}
+
+.bg {
+  background-color: rgb(242, 245, 250);
+  padding: 2rem;
+  border-radius: 1em;
+}
+
+.error {
+  color: tomato;
+  font-weight: 700;
+}

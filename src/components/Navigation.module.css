@@ -1,0 +1,17 @@
+.button {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 1rem;
+  padding: 0.8rem 1rem;
+  margin-top: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid grey;
+}
+
+.button:focus, .button:hover {
+  cursor: pointer;
+  outline: 1px solid black;
+}
+
+.button + .button {
+  margin-left: 1rem;
+}

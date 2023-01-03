@@ -1,0 +1,12 @@
+.section {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin-bottom: 0.75em;
+}
+
+.description {
+  margin-bottom: 0.5rem;
+}

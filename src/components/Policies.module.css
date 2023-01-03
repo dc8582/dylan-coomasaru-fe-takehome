@@ -1,0 +1,31 @@
+.qualifiedPoliciesTitle {
+  margin-bottom: 1rem;
+}
+
+.qualifiedPolicy {
+  margin-bottom: 0.5rem;
+}
+
+.bg {
+  background-color: rgb(242, 245, 250);
+  padding: 2rem;
+  border-radius: 1em;
+}
+
+.policyApplication {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.policyApplicationTitle {
+  margin-bottom: 1rem;
+}
+
+.policyApplication {
+  margin-bottom: 0.5rem;
+}
+
+.error {
+  color: red;
+}
